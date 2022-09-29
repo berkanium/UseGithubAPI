@@ -1,0 +1,1 @@
+Enter the username of the user whose repository and user information you want to see.
